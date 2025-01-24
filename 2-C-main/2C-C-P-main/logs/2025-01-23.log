@@ -1,0 +1,63 @@
+2025-01-23 07:33:30,getAllCustomers,admin,retrieve all Customers
+2025-01-23 08:43:18, getAllCustomers, admin, retrieve all customers
+2025-01-23 09:02:20, getTaxi, admin, retrieve all taxis
+2025-01-23 09:02:25, getTaxi, admin, retrieve all taxis
+2025-01-23 09:02:26, getTaxi, admin, retrieve all taxis
+2025-01-23 09:02:26, getTaxi, admin, retrieve all taxis
+2025-01-23 09:02:26, getTaxi, admin, retrieve all taxis
+2025-01-23 09:02:27, getTaxi, admin, retrieve all taxis
+2025-01-23 09:03:32, getAllCustomers, admin, retrieve all customers
+2025-01-23 09:03:59, getCustomerById, user_1, retrieve customer
+2025-01-23 09:04:03, getCustomerById, user_2, retrieve customer
+2025-01-23 09:04:05, getAllCustomers, admin, retrieve all customers
+2025-01-23 09:06:53, getAllCustomers, admin, retrieve all customers
+2025-01-23 09:07:05, POST, admin, Created a new taxi record.
+2025-01-23 09:07:16, getTaxi, admin, retrieve all taxis
+2025-01-23 09:07:17, getTaxi, admin, retrieve all taxis
+2025-01-23 09:07:17, getTaxi, admin, retrieve all taxis
+2025-01-23 09:07:17, getTaxi, admin, retrieve all taxis
+2025-01-23 09:07:18, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:48, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:49, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:49, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:49, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:49, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:49, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:49, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:50, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:50, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:50, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:50, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:50, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:50, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:51, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:51, getTaxi, admin, retrieve all taxis
+2025-01-23 09:08:51, getTaxi, admin, retrieve all taxis
+2025-01-23 09:10:44, getTaxi, admin, retrieve all taxis
+2025-01-23 09:10:46, getTaxi, admin, retrieve all taxis
+2025-01-23 09:10:49, getTaxi, admin, retrieve all taxis
+2025-01-23 09:11:07, getAllCustomers, admin, retrieve all customers
+2025-01-23 09:11:17, getTaxi, admin, retrieve all taxis
+2025-01-23 09:11:18, getTaxi, admin, retrieve all taxis
+2025-01-23 09:11:18, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:44, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:45, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:45, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:46, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:46, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:46, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:46, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:46, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:46, getTaxi, admin, retrieve all taxis
+2025-01-23 09:13:47, getTaxi, admin, retrieve all taxis
+2025-01-23 09:14:07, POST, admin, Created a new taxi record.
+2025-01-23 09:14:15, getTaxi, admin, retrieve all taxis
+2025-01-23 09:14:20, getTaxi, admin, retrieve all taxis
+2025-01-23 09:14:20, getTaxi, admin, retrieve all taxis
+2025-01-23 09:14:21, getTaxi, admin, retrieve all taxis
+2025-01-23 09:23:02, getAllCustomers, admin, retrieve all customers
+2025-01-23 09:31:28, getTaxi, , retrieve all taxis
+2025-01-23 09:32:15, getTaxi, , retrieve all taxis
+2025-01-23 09:32:42, getAllCustomers, admin, retrieve all customers
+2025-01-23 09:32:48, getTaxi, , retrieve all taxis
+2025-01-23 09:33:33, getTaxi, id, retrieve all taxis
